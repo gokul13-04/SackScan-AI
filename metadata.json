@@ -1,0 +1,6 @@
+{
+  "name": "SackScan AI",
+  "description": "Smart Sack Weight Estimation using visual cues, dimensions, and bulk density estimation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
